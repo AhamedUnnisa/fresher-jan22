@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Good evening Hi this is readme.txt
+=======
+Hello Hi this is readme.txt
+>>>>>>> js-assignments
 ==========
 
 
