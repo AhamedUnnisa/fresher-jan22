@@ -12,6 +12,7 @@ function myFunction() {
 <h2>Demo JavaScript in Head</h2>
 
 <p id="demo">A Paragraph.</p>
+<p id="demo">B Paragraph.</p>
 
 <button type="button" onclick="myFunction()">Try it</button>
 
